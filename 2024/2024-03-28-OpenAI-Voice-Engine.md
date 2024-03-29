@@ -1,4 +1,4 @@
-# Rumor (?): OpenAI's new upcoming "Big Thing" - Voice Engine (GPT-5)
+# ❓ Rumor: OpenAI's new upcoming "Big Thing" - Voice Engine (GPT-5)
     
 ### Trademark Insights
 
