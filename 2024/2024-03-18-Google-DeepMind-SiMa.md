@@ -1,4 +1,4 @@
-# Google DeepMind's SiMA, the master generalist in 3D virtual worlds
+# :computer: Google DeepMind's SiMA, the master generalist in 3D virtual worlds
 https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 
 > We present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings.
@@ -9,4 +9,3 @@ This AI is a bit of a jack-of-all-trades, picking up tasks from navigating mazes
 * **Sensory Integration**: It processes multiple types of sensory inputs to make decisions, mimicking how humans perceive and interact with the world around them.
 * **Continuous Learning**: Unlike many AI systems that require retraining for new tasks, SiMa learns from experience, continuously improving its ability to tackle unfamiliar challenges.
 * **Generalist Approach**: SiMa represents a significant move away from specialized AI, demonstrating capabilities across a broad range of tasks within complex, dynamic virtual environments.
-	
