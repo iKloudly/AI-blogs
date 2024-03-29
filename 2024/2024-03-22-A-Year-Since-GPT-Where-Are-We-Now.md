@@ -1,4 +1,4 @@
-# :brain: GPT - Where Are We Now, Since a Year and a Half Ago...?
+# :zap: GPT - Where Are We Now, Since a Year and a Half Ago...?
 
 **1. GPT is OLD TIME NEWS**
   
