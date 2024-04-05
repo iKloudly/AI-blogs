@@ -46,7 +46,7 @@ Discover the potential of Open Source Devin and contribute to its development:
 * Open-source AI just pulled a sneaky on fancy, expensive AI.
 * Turns out coding world is like a high school talent show: the broke kid with the homemade robot might just steal the spotlight.
 * Investors crying into their lattes as free AI bot is surprisingly not terrible at coding.
-  * (12.29% Devin Open Source vs. 13.84% Devin)
+  * (12.29 Devin Open Source vs. 13.84 Devin)
 
 > "Devin: 'I'm the best AI coder!'
 > 
